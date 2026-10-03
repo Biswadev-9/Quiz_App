@@ -42,7 +42,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Yeamin-Talukder/QUIZ-APP.git
+   git clone https://github.com/Biswadev-9/QUIZ-APP.git
    ```
 
 2. **Navigate to the project directory:**
